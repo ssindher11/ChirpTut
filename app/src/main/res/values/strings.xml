@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">ChirpTut</string>
+    <string name="send_key">Send Key</string>
+    <string name="key">Key</string>
+    <string name="send">SEND</string>
+    <string name="received_key">Received Key:</string>
+    <string name="receive_key">Receive Key</string>
+    <string name="welcome_to_chirp">Welcome to Chirp</string>
+    <string name="receive">Receive</string>
+</resources>
